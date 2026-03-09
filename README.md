@@ -1,4 +1,3 @@
-
 # My Python learning journey 
 ### Day 1 – Intro to Python [08-03-2026]
 
