@@ -29,3 +29,13 @@ Key points:
 - For loop: definite loop over a sequence
 - Accumulator: summing values inside a loop
 - Finding maximum and minimum in a list
+### Day 4 [17-03-2026]
+I learned: 
+- Indexing [ ]
+- Slicing [start:end]
+- Looping through strings (for)
+- Strings are immutable
+- replace() method
+- Counting with .count() or loops
+- String methods overview (.strip(), .lstrip(), .rstrip(), .upper(), .lower(), .find())
+- Traversing words vs characters (.split())
